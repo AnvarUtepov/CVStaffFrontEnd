@@ -16,6 +16,11 @@ $ cd CVStaffFrontEnd
 $ npm install
 ```
 
+## Access
+
+Login: test123
+Password: 123123
+
 ## Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
