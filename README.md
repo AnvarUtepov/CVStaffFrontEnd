@@ -1,7 +1,7 @@
 [![@coreui coreui](https://img.shields.io/badge/@coreui%20-coreui-lightgrey.svg?style=flat-square)](https://github.com/coreui/coreui)
 [npm-coreui]: https://www.npmjs.com/package/@coreui/coreui
 
-# CV Staff FrontEnd Test
+# CV Staff FrontEnd Test editor Utepov Anvar
 
 ## Installation
 
